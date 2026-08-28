@@ -1,0 +1,22 @@
+[
+  {
+    "email": "test@test.com",
+    "subscribedAt": "2026-08-26T17:10:09.171Z"
+  },
+  {
+    "email": "saint@saint.com",
+    "subscribedAt": "2026-08-28T18:14:43.820Z"
+  },
+  {
+    "email": "saint@saint.com",
+    "subscribedAt": "2026-08-28T18:14:45.297Z"
+  },
+  {
+    "id": "0fc711fc-937d-4a51-9578-8aeee53344f2",
+    "email": "saint@kiki.com",
+    "status": "active",
+    "source": "website",
+    "subscribedAt": "2026-08-28T19:16:47.165Z",
+    "updatedAt": "2026-08-28T19:16:47.165Z"
+  }
+]
